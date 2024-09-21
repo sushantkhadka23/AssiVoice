@@ -51,7 +51,9 @@ AssiVoice is an innovative Flutter application designed to provide voice assista
 
 ### Demo Video
 
-[Watch the demo video](https://github.com/user-attachments/assets/5b874d5e-d835-4279-9222-e3919aab9ea9)
+[Watch the demo video](https://github.com/user-attachments/assets/7aa86a22-b492-41c7-88ae-e74ff54c4c30)
+
+
 
 ## Resources
 
